@@ -4,7 +4,7 @@ This repository contains the final project for the IBM Data Science Professional
 
 ## Project Description
 
-The Applied Data Science Capstone Project is a culmination of all the skills and knowledge that you have acquired throughout the IBM Data Science Professional Certificate specialization. The project is designed to give you hands-on experience in solving real-world problems using data science techniques.
+The Applied Data Science Capstone Project is a culmination of all the skills and knowledge that I have acquired throughout the IBM Data Science Professional Certificate specialization. The project is designed to give hands-on experience in solving real-world problems using data science techniques.
 
 ## Project Objective
 
