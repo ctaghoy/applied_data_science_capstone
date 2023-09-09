@@ -27,7 +27,7 @@ This repository contains the following files:
 
 To get started with this project, you will need to clone this repository and install the required dependencies. You can do this by running the following command:
 
-git clone https://github.com/<your-github-username>/applied_data_science_capstone.git
+git clone https://github.com/ctaghoy/applied_data_science_capstone.git
 
 Once you have cloned the repository, you can open the Jupyter Notebooks in your preferred environment and start working on the project.
 
